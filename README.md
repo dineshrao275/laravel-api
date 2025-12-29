@@ -42,5 +42,6 @@ This project provides secure, scalable, and well-structured APIs for client appl
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https://github.com/dineshrao275/laravel-api.git
+cd laravel-api
+```
